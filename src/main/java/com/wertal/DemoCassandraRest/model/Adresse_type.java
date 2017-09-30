@@ -23,6 +23,7 @@ public class Adresse_type {
     }
 
     public String getStreet() {
+        
         return street;
     }
 
